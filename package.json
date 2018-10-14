@@ -1,0 +1,30 @@
+{
+  "name": "cypress-injects-react-element",
+  "version": "1.0.0",
+  "description": "Inject a dynamic JSX element from Cypress spec into application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/cypress-injects-react-element.git"
+  },
+  "keywords": [
+    "cypress",
+    "cypress-io",
+    "react",
+    "example"
+  ],
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com> (https://glebbahmutov.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahmutov/cypress-injects-react-element/issues"
+  },
+  "homepage": "https://github.com/bahmutov/cypress-injects-react-element#readme",
+  "dependencies": {
+    "cypress": "3.1.0",
+    "react": "16.5.2",
+    "react-dom": "16.5.2"
+  }
+}
